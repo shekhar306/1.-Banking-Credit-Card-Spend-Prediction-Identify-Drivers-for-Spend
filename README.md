@@ -1,4 +1,4 @@
-#### 1.-Banking-Credit-Card-Spend-Prediction-Identify-Drivers-for-Spend
+#### Banking-Credit-Card-Spend-Prediction-Identify-Drivers-for-Spend
 
 #### Business Problem
 
